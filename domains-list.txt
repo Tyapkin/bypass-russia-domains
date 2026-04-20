@@ -22,3 +22,5 @@ ext-strm-rusip01crmix-02.strm.yandex.net
 queuev4.vk.com
 34212.ms.vk.com
 vk.ru
+nuc-cdp.voskhod.ru
+nuc-cdp.digital.gov.ru
